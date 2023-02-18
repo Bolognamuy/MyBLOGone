@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    /* border: 2px solid black; */
+}
+
+.nav-items{
+    border: 2px solid rgb(128, 16, 102);
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 10px;
+    background-color: rgb(230, 230, 175);
+}
+
+.nav-items:hover{
+    box-shadow: 2px 4px rgb(52, 223, 30);
+}
+
+.nav-items a{
+    text-decoration: none;
+    margin-right: 3rem;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+
+    #wrapper1{
+        border: 2px solid black;
+        width: 100%;
+        max-width: 900px;
+        margin: 20px auto;
+        padding: 7px;
+        background-color: aquamarine;
+    }
+
+    .content1{
+        /* border: 2px solid black; */
+        width: 90%;
+        margin: auto;
+    }
+
+    .content1 p{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .profile1{
+        /* border: 2px solid rgb(223, 19, 19); */
+        display: flex;
+        justify-content: end;
+    }
+
+    
+    .profile1 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+    }
+    .data1{
+        /* border: 2px solid green; */
+        margin: 10px 5px;
+    }
+    .data1 h2{
+        font-size: 15px;
+        font-family: cursive;
+        text-transform: uppercase;
+    }
+    .data1 p{
+        font-size: 14px;
+    }
+    
+    #wrapper2{
+        border: 2px solid black;
+        width: 100%;
+        max-width: 900px;
+        margin: 20px auto;
+        padding: 7px;
+        background-color: rgb(229, 229, 121);
+    }
+
+    .content2{
+        /* border: 2px solid black; */
+        width: 90%;
+        margin: auto;
+    }
+
+    .content2 p{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .profile2{
+        /* border: 2px solid rgb(223, 19, 19); */
+        display: flex;
+        justify-content: start;
+    }
+
+    .profile2 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+    }
+    .data2{
+        /* border: 2px solid green; */
+        margin: 10px 5px;
+    }
+    .data2 h2{
+        font-size: 15px;
+        font-family: cursive;
+        text-transform: uppercase;
+    }
+    .data2 p{
+        font-size: 14px;
+    }
+
+
+    #wrapper3{
+        border: 2px solid black;
+        width: 100%;
+        max-width: 900px;
+        margin: 20px auto;
+        padding: 7px;
+        background-color: rgb(151, 194, 231);
+    }
+
+    .content3{
+        /* border: 2px solid black; */
+        width: 90%;
+        margin: auto;
+    }
+
+    .content3 p{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .profile3{
+        /* border: 2px solid rgb(223, 19, 19); */
+        display: flex;
+        justify-content: end;
+    }
+
+    .profile3 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+    }
+    .data3{
+        /* border: 2px solid green; */
+        margin: 10px 5px;
+    }
+    .data3 h2{
+        font-size: 15px;
+        font-family: cursive;
+        text-transform: uppercase;
+    }
+    .data3 p{
+        font-size: 14px;
+    }
+
+    #wrapper4{
+        border: 2px solid black;
+        width: 100%;
+        max-width: 900px;
+        margin: 20px auto;
+        padding: 7px;
+        background-color: rgb(215, 138, 131);
+    }
+
+    .content4{
+        /* border: 2px solid black; */
+        width: 90%;
+        margin: auto;
+    }
+
+    .content4 p{
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .profile4{
+        /* border: 2px solid rgb(223, 19, 19); */
+        display: flex;
+        justify-content: start;
+    }
+
+    .profile4 img{
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+    }
+    .data4{
+        /* border: 2px solid green; */
+        margin: 10px 5px;
+    }
+    .data4 h2{
+        font-size: 15px;
+        font-family: cursive;
+        text-transform: uppercase;
+    }
+    .data4 p{
+        font-size: 14px;
+    }
+
+
+
+
+
+
